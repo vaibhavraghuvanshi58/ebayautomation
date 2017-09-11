@@ -7,6 +7,10 @@ public class Shivani {
 		System.out.println("i am updating now");
 		System.out.println("update 1");
 		System.out.println("update 2");
+		System.out.println("update 3");
 	}
 	
+	public void hello(){
+		System.out.println("chnaged");
+	}
 }
